@@ -1,1 +1,1 @@
-Automated simple TicTacToe GAME with python
+Automated simple TicTacToe GAME with PYTHON 3
